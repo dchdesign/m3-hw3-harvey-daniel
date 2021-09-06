@@ -37,6 +37,17 @@ h1 {
     display: none;
 }
 
+h2 {
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 3px;
+}
+
+.red {
+    color: #EE252F;
+    text-transform: uppercase;
+}
+
 ul {
     display: flex;
     justify-content: left;
