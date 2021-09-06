@@ -1,0 +1,99 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    margin: auto;
+}
+
+h1 {
+    display: none;
+}
+
+ul {
+    display: flex;
+    justify-content: left;
+    padding-left: 50px;
+}
+
+li {
+    list-style-type: none;
+    padding: 25px;
+}
+
+header {
+    background-color: #F8DF1F;
+    height: 120px;
+    width: 100%;
+    margin: auto;
+}
+
+nav {
+    padding-top: 30px;
+}
+
+.container1 {
+    background-image: url("/img/banner-bg.png");
+    height: 340px;
+    text-align: center;
+}
+
+.section1 {
+    padding-top: 60px;
+}
+
+.container2 {
+    background-color: #ffffff;
+    height: 280px;
+    display: flex;
+}
+
+.section2 {
+    padding: 70px; 
+    max-width: 780px;
+}
+
+.burger {
+    padding: 50px;
+}
+
+.container3 {
+    background-color: #f3f3f3;
+    height: 340px;
+    display: flex;
+}
+
+.section3 {
+    padding: 70px; 
+    max-width: 760px;
+    order: 2;
+}
+
+.bob {
+    order: 1;
+    padding: 4%;
+    padding-left: 10%;
+}
+
+.container4 {
+    height: 10px;
+    background-color: #F8DF1F;
+}
+
+footer {
+    height: 165px;
+    background-color: #080801;
+    text-align: center;
+}
+
+.footer-logo {
+    padding: 2%;
+}
