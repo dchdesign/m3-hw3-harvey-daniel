@@ -11,6 +11,9 @@
   font-size: 18px;
   color: #050500;
 }
+#header {
+  background-color: #f8df1f;
+}
 * {
   margin: 0;
   padding: 0;
