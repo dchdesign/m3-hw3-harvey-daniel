@@ -61,6 +61,9 @@ h2 {
   font-size: 30px;
   color: #050500;
 }
+nav {
+  padding: 2%;
+}
 .red {
   color: #EE252F;
   text-transform: uppercase;
