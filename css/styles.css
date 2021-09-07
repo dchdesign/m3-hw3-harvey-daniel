@@ -1,3 +1,16 @@
+#p {
+  font-size: 18px;
+  color: #050500;
+}
+#ul {
+  font-size: 18px;
+  color: #050500;
+}
+#button {
+  background-color: #f8df1f;
+  font-size: 18px;
+  color: #050500;
+}
 * {
   margin: 0;
   padding: 0;
